@@ -1,6 +1,6 @@
 {
   "name": "@racg211/ui-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimal UI component library for React using Tailwind or styled-components",
   "types": "./dist/index.d.ts",
   "exports": {
